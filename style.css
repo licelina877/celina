@@ -2,3 +2,19 @@ html {
   height: 100%;
   width: 100%;
 }
+
+h2 {
+  color: green;
+}
+
+.content-section{
+  color: green;
+}
+
+.content-section2{
+  color: blue;
+}
+
+#Contact{
+  color: red;
+}
